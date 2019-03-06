@@ -1,0 +1,13 @@
+{
+
+    "client_id": "117670883227-6r885gh10esqo01niuqj8dnd1kl0nbod.apps.googleusercontent.com",
+    "project_id": "neha-search-1551703711531",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "l_GowygNabD_gFnksEyKpcaQ",
+    "redirect_uris": [
+      "http://localhost:8080"
+    ]
+
+}
